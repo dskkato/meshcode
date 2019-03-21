@@ -1,0 +1,14 @@
+We develop sets of functions for calculating world grid square codes 
+(compatible extension to JIS X0410) in various programming languages.
+If you use these libraries, you must declare that you include the library
+developed by Dr. Aki-Hiro Sato <akihiro@fttsus.jp>. This library is
+distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.
+(c) Research Institute for World Grid Squares, 2015-2019 All Right reserved.
+
+R (Version 1.4 : Released on 19 December 2015)
+Javascript (Version 1.01 : Released on 6 February 2017)
+PHP (Version 1.0 : Released on 7 February 2017)
+Python (Version 1.2 : Released on 10 December 2018)
+Java (Version 1.0 : Released on 1 January 2019)

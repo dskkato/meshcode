@@ -1,0 +1,16 @@
+世界メッシュコード(JIS X0410上位互換)を算出する関数群を複数の言語で開発していま
+す。この世界メッシュコード関連関数群を使う場合は、このソフトウエアが科学技術振興
+機構さきがけ「グローバル・システムの持続可能性評価基盤に関する研究」の研究成果で
+あること並び、世界メッシュ研究所によりこのライブラリが提供されている旨を記載して
+ください。このライブラリを用いて発生したいかなる損失もソフトウエア作者が責任を被
+ることはなく、このライブラリを使用することをもって、本ライブラリが無保証であるこ
+とを認めたとみなします。
+Dr. Aki-Hiro Sato
+(c) Research Institute for World Grid Squares,2015-2019
+All Right reserved.
+
+R言語 (Version 1.4 : Released on 19 December 2015)
+Javascript (Version 1.01 : Released on 6 February 2017)
+PHP (Version 1.0 : Released on 7 February 2017)
+Python (Version 1.2 : Released on 10 December 2018)
+Java (Version 1.0 : Released on 1 January 2019)
